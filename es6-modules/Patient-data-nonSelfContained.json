@@ -1,0 +1,27 @@
+{
+    "_id": "fa03361b54c9ce8450dcc05290014971", 
+    "_rev": "1-5b8e9de950a6abebdbdda6c9342374ef",
+    "patientContact":9764944061,
+    "name":"Mark Zukerberg", 
+    "gender":"male" ,
+    "birthDate": 197550549,
+    "medicalData":{
+           "date":1606820949,
+           "BP_Systolic":150,
+           "BP_Diostolic":  120    
+        }    
+}
+
+{
+    "_id": "fa03361b54c9ce8450dcc052900151e9", 
+    "_rev": "1-2de56f2af0daec61a8f3f6620b1f4d74",
+    "patientContact":9764944061,
+    "name":"Mark Zukerberg", 
+    "gender":"male" ,
+    "birthDate": 197550549,
+    "medicalData":{
+           "date":1606820949,
+           "BP_Systolic":150,
+           "BP_Diostolic":  120    
+        }    
+}

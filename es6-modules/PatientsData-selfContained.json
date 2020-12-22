@@ -1,0 +1,20 @@
+{
+    "_id": "fa03361b54c9ce8450dcc05290014971", 
+    "_rev": "1-5b8e9de950a6abebdbdda6c9342374ef",
+    "name":"Mark Zukerberg", 
+    "gender":"male" ,
+    "birthDate": 197550549,
+    "medicalData":[
+        {
+           "date":1606820949,
+           "BP_Systolic":150,
+           "BP_Diostolic":  120    
+        },
+        {
+            "date":1609499349,
+            "BP_Systolic":165,
+            "BP_Diostolic":  120,  
+            "cholesterol":180
+        }
+    ]
+}

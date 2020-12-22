@@ -1,4 +1,4 @@
-const url = 'http://admin:123@123@localhost:5984'
+const url = 'http://admin:123@localhost:5984'
 const nano = require('nano')(url);
 const short = require('short-uuid');
 
